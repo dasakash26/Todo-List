@@ -8,6 +8,6 @@ Welcome to the Todo-List app, your go-to solution for staying organized and on t
 - **🔄 Edit & Delete:** Update or remove tasks as needed.
 - **✅ Task Completion:** Mark tasks as completed and enjoy the satisfaction of ticking them off.
 - **🔍 Smart Filtering:** View all, active, or completed tasks with ease.
-- **💾 Persistent Storage:** Your tasks are securely saved in the browser's local storage, so they're always there when you need them.
+- **💾 Persistent Storage:** Your tasks are securely saved in the browser's local storage, so they're always there whenever you need them.
 
 ---
